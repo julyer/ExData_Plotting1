@@ -1,3 +1,7 @@
+## Brief Explanation of What I've Done
+I've uploaded the 8 files into this repository but I've left the figures folder from the original fork from dpeng's repository. I'm leaving this README.md file pretty much intact except for this added note. The instructions for the assignment are below and I've commented the code in the .R files to explain what I've done to produce the plots.
+
+
 ## Introduction
 
 This assignment uses data from
